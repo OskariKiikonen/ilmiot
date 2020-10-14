@@ -9,16 +9,16 @@ Erilaisia otsikoita voi tehdä laittamalla # merkkejä peräkkäin:
 ##### 5. tason otsikko  
 ###### 6. tason otsikko  
 
-Listoja voit tehdä näin:
+Listoja voit tehdä näin:  
 * Listan ensimmäinen elementti
 * Listan toinen elementti
 * Listan kolmas elementti
   * Kolmannen elementin ensimmäinen alielementti  
   * Kolmannen elementin toinen alielementti
 
-Numeroitu lista:
-1. Eka juttu
-1. Toka juttu
-1. Kolmas juttu
-   1. Kolmannen eka juttu
-   1. Kolmannen toinen juttu
+Numeroitu lista:  
+1. Eka juttu  
+1. Toka juttu  
+1. Kolmas juttu  
+   1. Kolmannen eka juttu  
+   1. Kolmannen toinen juttu  
