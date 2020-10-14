@@ -15,3 +15,10 @@ Listoja voit tehdä näin:
 * Listan kolmas elementti
   * Kolmannen elementin ensimmäinen alielementti  
   * Kolmannen elementin toinen alielementti
+
+Numeroitu lista:
+1. Eka juttu
+1. Toka juttu
+1. Kolmas juttu
+   1. Kolmannen eka juttu
+   1. Kolmannen toinen juttu
