@@ -33,3 +33,11 @@ http://www.google.com (automaattisesti)
 Näinkin voi tehdä  
 > Kirjoitetaan tähän tekstiä  
 > Tähän lisää tekstiä  
+
+Tässä tapauksessa teksti tulee laatikkoon:  
+````  
+function kirjoitaTeksti(kirjoita)  
+ if(kirjoita) {  
+  console.log("parametri oli tosi")
+  }
+````
