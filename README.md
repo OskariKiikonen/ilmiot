@@ -22,3 +22,14 @@ Numeroitu lista:
 1. Kolmas juttu  
    1. Kolmannen eka juttu  
    1. Kolmannen toinen juttu  
+   
+Readme.md -tiedostoon voi laittaa myös kuvia.
+![Hyvinvointiteknologia](hyvis.jpg)
+
+Linkitkin toimii:
+http://www.google.com (automaattisesti)  
+[Google](http://google.com)  
+
+Näinkin voi tehdä  
+> Kirjoitetaan tähän tekstiä  
+> Tähän lisää tekstiä  
