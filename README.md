@@ -40,4 +40,10 @@ function kirjoitaTeksti(kirjoita)
  if(kirjoita) {  
   console.log("parametri oli tosi")
   }
-````
+````  
+Taulukon sarakkeen otsikko | Seuraavan sarakkeen otsikko  
+---------------------|----------------------
+ABC | 123  
+XYZ | 456  
+
+:sunglasses:
