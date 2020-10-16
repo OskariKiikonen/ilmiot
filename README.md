@@ -38,6 +38,20 @@ päivä | aika | tehtävä
 08.12 | 9h | käyttökoulutus  
 yht | 28 |  
 
+## Käyttöohje  
+**Järjestelmän konfigurointi**  
+Lataa node-modules  
+´´´´
+npm install
+´´´´
+
+
+
+
+
+
+
+
 
 
 
