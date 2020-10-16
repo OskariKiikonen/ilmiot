@@ -40,11 +40,15 @@ yht | 28 |
 
 ## Käyttöohje  
 **Järjestelmän konfigurointi**  
-Lataa node-modules  
+
+Lataa node_modules  
 ````  
 npm install  
 ````  
-
+Käynnistä projekti paikallisesti porttiin 3000  
+````  
+npm start  
+````
 
 
 
