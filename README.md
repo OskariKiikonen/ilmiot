@@ -41,9 +41,9 @@ yht | 28 |
 ## Käyttöohje  
 **Järjestelmän konfigurointi**  
 Lataa node-modules  
-´´´´
-npm install
-´´´´
+´´´´  
+npm install  
+´´´´  
 
 
 
