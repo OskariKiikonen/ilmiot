@@ -21,11 +21,11 @@
  ## Arkkitehtuurikuvaus  
  
  **Luokkakaavio**  
- 
+ ![joo](jou.jpg)
  
  
  **Sekvenssikaavio**  
- 
+![jooo](jou.jpg)
  
  
  **Työaikakirjanpito**  
