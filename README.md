@@ -1,3 +1,45 @@
+# Sääasema 2020  
+## Vaatimusmäärittely  
+ **Sovelluksen tarkoitus**  
+ * Mitataan ympäristön lämpötila- ilmankosteustietoja.  
+ * Saatuja tietoja voidaan tarkistella tekstinä ja grafiikkana web sovelluksella.  
+ 
+ **Käyttäjät**  
+ 
+ Web sovellus on tarkoitettu julkiseen käyttöön.  
+ 
+ **Käyttöliittymä**  
+ 
+ Käyttöliittymä koostuu kahdesta näkymästä:  
+  1. Tekstimuotoisen datan selaamiseen tarkoitettu näkymä  
+  1. Grafiikkamuotoisen datan selaamiseen tarkoitettu näkymä  
+  
+  **Jatkokehitysideoita**  
+  
+  Säätietojen selaaminen valitulla aikavälillä.  
+ 
+ ## Arkkitehtuurikuvaus  
+ 
+ **Luokkakaavio**  
+ 
+ 
+ 
+ **Sekvenssikaavio**  
+ 
+ 
+ 
+ **Työaikakirjanpito**  
+
+10.11 | 2h | Projektin suunnittelu  
+24.11 | 3h | Laitteiston asennus  
+25.11 | 2h | Ohjelmointi  
+01.12 | 5h | Testaaminen ja dokumentointi  
+08.12 | 9h | käyttökoulutus  
+yht | 28  
+
+
+
+
 # Alan toimintaympäristöt ja ilmiöt  
 Tekstiä voi kirjoittaa vaikka **lihavoituna**, *kursivoituna* tai ~~yliviivattuna~~.  
 
