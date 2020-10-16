@@ -29,13 +29,14 @@
  
  
  **Työaikakirjanpito**  
-
+päivä | aika | tehtävä
+-----------|--------------------|-----------
 10.11 | 2h | Projektin suunnittelu  
 24.11 | 3h | Laitteiston asennus  
 25.11 | 2h | Ohjelmointi  
 01.12 | 5h | Testaaminen ja dokumentointi  
 08.12 | 9h | käyttökoulutus  
-yht | 28  
+yht | 28 |  
 
 
 
