@@ -38,7 +38,7 @@ päivä | aika | tehtävä
 08.12 | 9h | käyttökoulutus  
 yht | 28 |  
 
- **Työvaiheet**
+ **Työvaiheet**  
 --------------|-----------------|-----------------------  
 30.10 | 20min | Ledin kytkentä  
 4.11 | 30min |  Ledin vilkuttaminen  
