@@ -38,6 +38,10 @@
 4.11 | 30min | Valoisuuden mittaaminen fototransistorilla  
 
 
+![jooooo](vaihe1.png)  
+
+
+
 ## Käyttöohje  
 **Järjestelmän konfigurointi**  
 
