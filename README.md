@@ -31,12 +31,20 @@
  **Työaikakirjanpito**  
 päivä | aika | tehtävä
 -----------|--------------------|-----------
-10.11 | 2h | Projektin suunnittelu  
+10.11 | 2h | Projektin suunnittelu
 24.11 | 3h | Laitteiston asennus  
 25.11 | 2h | Ohjelmointi  
 01.12 | 5h | Testaaminen ja dokumentointi  
 08.12 | 9h | käyttökoulutus  
 yht | 28 |  
+
+**Työvaiheet**
+--------------|-----------------|------------
+30.10 | 20min | Ledin kytkentä  
+4.11 | 30min |  Ledin vilkuttaminen  
+4.11 | 30min | Ledin kontrollointi selainpohjaisella järjestelmällä  
+4.11 | 30min | Valoisuuden mittaaminen fototransistorilla  
+
 
 ## Käyttöohje  
 **Järjestelmän konfigurointi**  
