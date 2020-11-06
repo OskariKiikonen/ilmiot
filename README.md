@@ -39,7 +39,7 @@ päivä | aika | tehtävä
 yht | 28 |  
 
  **Työvaiheet**
---------------|-----------------|-----------------------
+--------------|-----------------|-----------------------  
 30.10 | 20min | Ledin kytkentä  
 4.11 | 30min |  Ledin vilkuttaminen  
 4.11 | 30min | Ledin kontrollointi selainpohjaisella järjestelmällä  
