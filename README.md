@@ -39,7 +39,7 @@
 
 
 ![jooooo](vaihe1board.png)  
-
+![jooooooo](fototransistori.txt)  
 
 
 
