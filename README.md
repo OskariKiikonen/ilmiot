@@ -39,9 +39,10 @@
 
 
 ![jooooo](vaihe1board.png)  
-![jooooooo](fototransistori.txt)  
 
 
+
+![jooooooo](vaihe2board.png)
 
 ## Käyttöohje  
 **Järjestelmän konfigurointi**  
