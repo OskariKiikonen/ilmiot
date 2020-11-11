@@ -42,7 +42,13 @@
 
 
 
-![jooooooo](vaihe2board.png)
+![joooooooo](vaihe1.png)  
+
+
+![jooooooo](vaihe2board.png)  
+
+
+![joooooooooo](vaihe2.png)  
 
 ## Käyttöohje  
 **Järjestelmän konfigurointi**  
