@@ -37,6 +37,7 @@
 4.11 | 30min | Ledin kontrollointi selainpohjaisella järjestelmällä  
 4.11 | 30min | Valoisuuden mittaaminen fototransistorilla  
 
+## vaihe 1  
 
 ![jooooo](vaihe1board.png)  
 
@@ -66,11 +67,17 @@ void loop() {
   delay(1000);
 
 }
-````
+````  
+
+## vaihe 2  
+
 ![joooooooooo](vaihe2.png)
+
+## vaihe 3  
 
 ![yees](käyttöliittymä.jpg)
 
+## vaihe 4  
 ````
 {"cmd":"VarReturn","name":"analogvalue","result":10,"coreInfo":{"last_heard":"2020-11-18T08:17:33.585Z","connected":true,"last_handshake_at":"2020-11-18T08:17:33.585Z","deviceID":"2f0035001947393035313138","product_id":6}}
 ````
