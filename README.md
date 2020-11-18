@@ -45,6 +45,7 @@
 
 ![joooooooo](vaihe1.png)  
 
+## vaihe 2  
 
 ![jooooooo](vaihe2board.png)  
 ````
@@ -68,8 +69,6 @@ void loop() {
 
 }
 ````  
-
-## vaihe 2  
 
 ![joooooooooo](vaihe2.png)
 
