@@ -40,7 +40,7 @@
 ## vaihe 1  
 
 ![jooooo](vaihe1board.png)  
-
+Ledi on kokoajan päällä  
 
 
 ![joooooooo](vaihe1.png)  
