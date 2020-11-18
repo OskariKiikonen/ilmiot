@@ -46,8 +46,27 @@
 
 
 ![jooooooo](vaihe2board.png)  
+````
+int led = D6;  
 
+void setup() {
 
+  pinMode(led, OUTPUT);
+
+}
+
+void loop() {
+
+  digitalWrite(led, HIGH);
+
+  delay(1000);
+
+  digitalWrite(led, LOW);
+
+  delay(1000);
+
+}
+````
 ![joooooooooo](vaihe2.png)  
 
 ## Käyttöohje  
