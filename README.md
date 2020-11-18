@@ -67,7 +67,12 @@ void loop() {
 
 }
 ````
-![joooooooooo](vaihe2.png)  
+![joooooooooo](vaihe2.png)
+
+![yees](käyttöliittymä.jpg)
+
+
+
 
 ## Käyttöohje  
 **Järjestelmän konfigurointi**  
