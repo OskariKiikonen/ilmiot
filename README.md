@@ -79,7 +79,12 @@ void loop() {
 ## vaihe 4  
 ````
 {"cmd":"VarReturn","name":"analogvalue","result":10,"coreInfo":{"last_heard":"2020-11-18T08:17:33.585Z","connected":true,"last_handshake_at":"2020-11-18T08:17:33.585Z","deviceID":"2f0035001947393035313138","product_id":6}}
-````
+````  
+
+## vaihe 5  
+
+![juu](vaihe5.fzz)  
+  
 ## Käyttöohje  
 **Järjestelmän konfigurointi**  
 
