@@ -83,7 +83,10 @@ void loop() {
 
 ## vaihe 5  
 
-![juu](vaihe5.fzz)  
+![juu](vaihe5_bb.jpg)  
+
+![jees](vaihe5_schem.jpg)  
+
   
 ## Käyttöohje  
 **Järjestelmän konfigurointi**  
